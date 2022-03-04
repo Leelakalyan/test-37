@@ -1,0 +1,8 @@
+Ta=["hai sir"]
+Tb=["how are you"]
+Tc=[2,3,4,5,5,73]
+Td=Ta+Tb+Tc
+print(Td)
+
+Output:
+['hai sir', 'how are you', 2, 3, 4, 5, 5, 73]
